@@ -1,7 +1,12 @@
+html, 
+body {
+	overflow-x: hidden;
+}
+
+
 .container  {position: relative;
   width: 100%;
   max-width: 100%;
-
 }
 
 
@@ -10,7 +15,6 @@
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
- 
 }
 
 h1 { 
@@ -39,8 +43,6 @@ padding:20px;
 	width: 40%;
 	margin-right: 5%;
 	margin-top: 50px;
-
-
 }
 
 
